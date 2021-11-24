@@ -1,0 +1,87 @@
+# Preparing architecture for PI planning
+
+## Contributing to program backlog
+Enablers are at every level
+
+**EPIC**
+Container for a solution development initiative to define an MVP
+* SAFE: Portfolio
+* Backlog: Portfolio backlog
+* Span: multiple PIS
+
+**Capabilities**
+Higher-level Solution behavior that typically spans multiple ARTs
+* SAFE: Large solution
+* Span: single PI
+* Backlog: Solution backlog
+* Prioritised using WSJF (weighted shortest job first)
+
+**Feature**
+Benefit hypothesis and acceptance criteria
+* Single ART
+* Backlog: program backlog
+
+**Enablers**
+Support activity need to extend architectural runway to enable faster feature development or at all
+* Backlog: all
+* Types: exploration(spikes), infrastructure, compliance and architectural (general I guess??)
+* structure
+```text
+Enabler Feature name    - A short phrase providing name and conte xt
+Enabler description     - Briefly describe the Enabler
+Benefit hypothesis      - Proposed measurable benefit to the end-user or business
+Acceptance criteria     - Determines whether the implementation is correct and delivers the proposed business benefits
+```
+
+**NFRs**
+Initially realised by enablers. These are fixed things that define something. Enablers are 'lets do this and see'
+* Backlog: none (they are more like acceptance criteria)
+
+### Role of architects
+
+**Features & Capabilities**
+* help with acceptance criteria
+* prioritisation
+* Define NFRs
+* Identify architectural impact
+* Identify measurable benefits and metrics -- ?? really!!
+
+My experience - ultimately defining NFRs, keeping acceptance criteria ontrack with existing architectural runway and prioritisation of architectural concerns
+
+## Sequence and prioritise work in program backlog
+
+**WSJF**
+WSJF provides a model to reason about priorities and align stakeholders to the best economic outcomes
+* give priority to shorter pieces of work with the highest cost of delay = WSJF = cost of delay / job size
+* ignores sunk costs 
+* and helps to decentralise decision-making and control with rules
+* Cost of delay 
+  * business value
+  * time criticality
+  * risk reduction and/or opportunity enablement (e.g. enable other work down the track or inhibit it)
+
+**Capacity Allocation**
+In low trust or immature environments you can use this. Set rules for capacity for 
+* new features
+* enablers
+* tech debt and maintenance
+
+### Role of architects
+Essentially identify areas where backlog does not reflect right balance of work to support business outcomes now and in the future
+* negotiate capacity allocation
+* use WSJF to get enablers and NFRS prioritised
+
+## Contribute to solution pre PI planning
+Align everyone to the solution vision
+* Inputs: previous PI results (demos)
+
+### Role of architects
+Participate during 'Business context and solution vision briefing' with architectural vision briefing
+* describe/understand the solution runway to achieve solution vision
+* create enablers required to build solution runway this PI in key backlogs
+* manage dependencies across teams
+* understand impact of solution context and NFRs and how they 'constrain' the solution
+
+Architects need to be able to get their ideas into the appropriate backlogs and prioritized alongside other work. 
+Assume no one else is going to do it. If it doesn't happen, important architectural decisions will likely be lost and trumped
+by the work that is in the backlog

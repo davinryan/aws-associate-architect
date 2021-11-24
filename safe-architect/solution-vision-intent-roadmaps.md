@@ -1,3 +1,4 @@
+# Developing solution vision, intent and roadmaps
 
 ## Solution Vision
 Provides a connection between the longer-term, aspirational ‘what could be' and the ‘what will likely be' that a 
@@ -12,7 +13,7 @@ is influenced heavily by solution context
 
 * Solution context constrains all aspects of the solution
 * Teams across all involved trains and suppliers will add context and detail to the solution intent
-* Examples: Customer personas
+* Examples: Customer personas, existing infrastructure and ways our society works
 
 ## Solution Intent
 Solution intent is a knowledge repository that is a record of decisions driving the solution. Favor models over documentation. 
@@ -20,9 +21,9 @@ Use minimum sufficient documentation. Keep solution intent collaborative and mak
 items in a single place. High level supports change
 * Records and communicates requirements, design, and system architecture decisions (ADRs)
 * Facilitates continuous exploration and analysis activities (Spikes/Experiments)
-* Aligns the customer, Development Team and Suppliers to a common purpose ()
-* Supports compliance, contractual agreements, traceability, high assurance ()
-* Collaborative effort between teams and program leadership
+* Aligns the customer, Development Team and Suppliers to a common purpose (vision)
+* Supports compliance, contractual agreements, traceability, high assurance (regulatory and compliance)
+* Collaborative effort between teams and program leadership (product management)
 * Examples: Use-case, component and connector, sequence diagrams
 
 ## Moving from variable to fixed Solution Intent
@@ -42,7 +43,7 @@ Are constraints on the backlog
 * Architects 'OWN' NFRs through their complete lifecycle (core competency of architects)
 * Implementation should occur in a way that will allow several learning cycles to determine the right level of NFR
 * Focus on fixed NFRs now and variable ones later
-* Name/Scale(what-units)/Meter(how-method) -> (step 2) Constraint(worst)/Baseline(current)/Target(future)
+* Name/Scale(what/units)/Meter(method) -> (step 2) Constraint(worst)/Baseline(current)/Target(future)
 * Automate compliance and NFR tests
 
 ## Road maps
