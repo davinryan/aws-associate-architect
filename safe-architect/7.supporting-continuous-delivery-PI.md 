@@ -41,14 +41,14 @@ or is not, practicing Agile at scale.
 * swarm problems and solutions
 * NOT: governance committee
 * deal with team level issues
-IMPORTANT NOTE: you might have an ART level and Solution level architecture SYNC. Endevour to just have
+IMPORTANT NOTE: you might have an ART level and Solution level architecture SYNC. Endeavour to just have
 an ART sync to reduce waste and bureaucracy
 
 ## Prepare for Iteration Reviews and System and Solution Demos
 **Iteration review**
 WHAT:  immediate team level feedback
 WHEN:  every iteration
-WHO:   by teams to team members and interested stake holders 
+WHO:   by teams to team members and interested stakeholders 
 SHOWS: Team value and progress update
 **system demo**
 WHAT:  immediate system level feedback (full system in staging environment)
@@ -72,7 +72,7 @@ SHOWS: Results of combined work between ARTs to influence investment advice in s
 * Quantitative measurement
   * Measure planned vs actual performance of ART
   * Architects accountable for business value scores of enabler features and capabilities
-  * (refer lesson 2 about value stream metrics)
+  * (refer lesson 2 about value stream metrics - LT, PT, %C&A)
 * Problem-solving workshop
   * Retrospective to identify problems (seeds problem-solving workshop)
   * Typically, issues are people, process or tech related
@@ -81,7 +81,7 @@ SHOWS: Results of combined work between ARTs to influence investment advice in s
   * Process
     1. Retrospective out problems and pick one
     2. apply root cause analysis (5 why's)
-    3. identify largest root cause using pareto analysis
+    3. identify largest root cause using pareto analysis (scoring using votes or costs (etc...) for biggest 5 problems)
     4. restate new problem with biggest root cause score
     5. brainstorm solutions
     6. identify and create backlog improvement items
