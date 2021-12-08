@@ -1,6 +1,6 @@
 1. Take an economic view
 2. Apply systems thinking
-3. Assume variability ; preserve options
+3. Assume variability, preserve options
 4. Build incrementally with fast, integrated learning cycles
 5. Base milestones on objective evaluation of working systems
 6. Visualize and limit WIP, reduce batch sizes, and manage queue lengths

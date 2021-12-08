@@ -32,8 +32,8 @@ or is not, practicing Agile at scale.
 
 ## Guide architecture and Continuous Delivery throughout the PI
 **Architect Sync**
-* ART Level meetups: system architects (maybe solution architects), tech leads, key SME's
 * Solution Level meetups: system, solution architects, key SME's
+* ART Level meetups: system architects (maybe solution architects), tech leads, key SME's
 * align on strategy
 * design architectural runway
 * resolve risks and remove impediments
