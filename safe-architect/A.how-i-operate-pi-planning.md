@@ -41,6 +41,7 @@
   * NFRs
   * Enabler features
   * Dependencies - identity/anticipate dependencies between teams and suppliers, dependencies are a red flag
+  * ROAM risks
 * Engage and Synchronise teams
   * work from common architectural principles that achieve strategic goals/themes/vision
   * ensure consistency of architecture across teams - do ad hoc architecture diagrams - these can be part of the emergent architecture
@@ -62,7 +63,7 @@
 * Refining architectural backlog
 * Shepherding architectural vision all through implementation (verify alignment with solution intent)
 * Refactor architecture (gather feedback, gauge value of decisions, observe emergent architecture)
-* Improving CI/CD tools
+* Improve CI/CD tools
 * Deliver minimum viable architecture (MVA)
 * Research trends and apply emerging technology
 
@@ -76,8 +77,8 @@
 * Requires strong DevOps practices being in place due to heavy integration across teams work
 
 # Contribute to management review and problem-solving
-* use inspect and adapt. Don't rely on organisation to do this, do it yourself
-**Common questions at the end of day one of PI planning**
+* use inspect and adapt. Don't rely on organisation to do this, do it yourself when you need it
+**Have a session after PI planning to discuss**
 Note: Done via program management review and problem-solving. In Large SAFE this is called
 Solution train management review and problem-solving
 * what did we learn

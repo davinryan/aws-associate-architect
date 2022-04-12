@@ -9,7 +9,7 @@ Reference: https://www.scaledagileframework.com/lean-portfolio-management/
 * Hold to account Lean Portfolio management team (like a news reporter, hold to account those who have most of the power)
   * Strategy and investment funding (enterprise executives, Business owners, Enterprise Architect) e.g.
     * Definition: Strategy and investment funding ensures that the entire portfolio is aligned and funded to create and maintain the solutions needed to meet business targets
-    * advocate for capacity allocation especially if the project calls for it e.g. re*platforming
+    * advocate for capacity allocation especially if the project calls for it e.g. re-platforming
     * demand data/metrics (OKR level) in strategic goals and lean business cases
     * demand honesty about priority and relevance of all strategic themes/goals 
   * Lean governance (agile program management office (APMO), enterprise architect, Business owners) e.g.
@@ -40,6 +40,7 @@ Reference: https://www.scaledagileframework.com/lean-portfolio-management/
   * identify measurable benefits and metrics
   * demoing them during system and solution demos
   * own that capacity allocation, fight for it
+  * disambiguate epics and features so they are SMART - A = achievable. Pull out the stuff that isn't or don't make Epics.  
 * Alignment - Make sure architects are aligned and if not then relentless sort this out before doing anything else otherwise you're wasting your time
 * Metrics - demand and participate in use of and quality of flow metrics at the team level
 * Keep features and related material as high level as possible to support low level changes
