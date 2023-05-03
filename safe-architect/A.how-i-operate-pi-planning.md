@@ -52,7 +52,7 @@
   * consider what becomes a committed vs uncommitted objective
   * defend architectural approaches citing business consequences if not implemented
 * Resolve issues
-  * Support ROAM (resolved, owned, accepted, mitigated) activity by identifying and/or owning program risks (not team risks - teams handle these)
+  * Support ROAM (resolved, owned, accepted, mitigated) activity by identifying and/or owning ART risks (not team risks - teams handle these)
   * keep dependencies in check
 
 # Contribute during sprints
@@ -79,7 +79,7 @@
 # Contribute to management review and problem-solving
 * use inspect and adapt. Don't rely on organisation to do this, do it yourself when you need it
 **Have a session after PI planning to discuss**
-Note: Done via program management review and problem-solving. In Large SAFE this is called
+Note: Done via value management review and problem-solving. In Large SAFE this is called
 Solution train management review and problem-solving
 * what did we learn
 * what adjustments need to be made to vision, scope

@@ -12,10 +12,10 @@ Reference: https://www.scaledagileframework.com/lean-portfolio-management/
     * advocate for capacity allocation especially if the project calls for it e.g. re-platforming
     * demand data/metrics (OKR level) in strategic goals and lean business cases
     * demand honesty about priority and relevance of all strategic themes/goals 
-  * Lean governance (agile program management office (APMO), enterprise architect, Business owners) e.g.
+  * Lean governance (agile value management office (AVMO), enterprise architect, Business owners) e.g.
     * Definition: Lean Governance manages spending, audit and compliance, forecasting expenses and measurement
     * demand and participate in use of and quality of outcome/competency metrics
-  * Agile portfolio operations (APMO, RTE, solution management (SM), communities of practice (CoP))
+  * Agile portfolio operations (AVMO, RTE, solution management (SM), communities of practice (CoP))
     * Definition: Agile portfolio operations coordinate and support decentralized program execution, enabling operational excellence
     * demand and participate in use of and quality of flow metrics
 

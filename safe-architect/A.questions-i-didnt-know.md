@@ -1,10 +1,10 @@
-In addition to System Architects, what is the best role to define and maintain Program Increment (PI) Roadmaps?
+In addition to System Architects, what is the best role to define and maintain Planning Interval (PI) Roadmaps?
 
 What is true about Lean Budget Guardrails?
 
 
 
-In balancing intentional architecture and emergent design for the upcoming Program Increment (PI), what three things does a System Architect work to avoid? (Choose three.)
+In balancing intentional architecture and emergent design for the upcoming Planning Interval (PI), what three things does a System Architect work to avoid? (Choose three.)
 Explaining the architectural Vision to AgileTeams
 Untested nonfunctional requirements (NFRs)
 Unvalidated architectural decisions
@@ -13,7 +13,7 @@ Reuse of common components
 Sacrificing the immediate needs of users
 
 
-An Agile Release Train (ART) is defining new Architectural Runway for a future Program Increment (PI). A senior developer approaches the System Architect with concerns that the developers do not have the knowledge to implement the Enablers.
+An Agile Release Train (ART) is defining new Architectural Runway for a future Planning Interval (PI). A senior developer approaches the System Architect with concerns that the developers do not have the knowledge to implement the Enablers.
 How should the Architect help to resolve this?
 Hire contractors to implement the Enablers
 Start involving the developers in Architectural Runway planning
@@ -21,11 +21,11 @@ Encourage the developers to devote non-work hours to gain the knowledge
 Develop detailed design specifications that clarify the development tasks
 
 
-The System Architects are working with the Product Managers to prepare the Agile Release Train for Program Increment (PI) Planning. What three activities will the Architects be working on? (Choose three.)You have reached the max number of allowed answers
+The System Architects are working with the Product Managers to prepare the Agile Release Train for Planning Interval (PI) Planning. What three activities will the Architects be working on? (Choose three.)You have reached the max number of allowed answers
 Team training
 ROAMing risks
 Enabler elaboration
-Program backlog elaboration
+ART backlog elaboration
 Capacity allocation percentages
 Agile project management tooling
 
@@ -35,7 +35,7 @@ Product Managers
 Solution Architects
 Solution Portfolio Management
 Release Train Engineers
-Agile program management office (APMO)
+Agile value management office (AVMO)
 Enterprise Architects
 
 
@@ -64,14 +64,14 @@ Continuous attention to technical excellence and good design enhances agility
 Simplicity is essential
 Welcome changing requirements even when late in the development phase
 
-With whom should the System Architect collaborate on the Program Increment (PI) Roadmap to align and guide teams toward a shared technical Vision?
+With whom should the System Architect collaborate on the Planning Interval (PI) Roadmap to align and guide teams toward a shared technical Vision?
 Release Train Engineer and Product Owners
 Enterprise Architect and Product Management
 Scrum Masters and the Release Train Engineer
 Business Owners and Product Owners
 
 What is an Architect's primary responsibility during management review and problem-solving?
-Adjust the Program Increment (PI) Roadmap
+Adjust the Planning Interval (PI) Roadmap
 Create new Enabler Stories
 De-scope Enabler Features
 Evaluate and adjust the architecture Vision
@@ -94,7 +94,7 @@ Release and design
 Release and timelines
 Define and test
 
-What is an outcome of post-Program Increment (PI) Planning?
+What is an outcome of post-Planning Interval (PI) Planning?
 An updated Solution Roadmap
 PI Objectives for each Agile Release Train (ART)
 A finished program board
@@ -106,7 +106,7 @@ Provides stakeholders a set of committed deliverables over a multi-year timefram
 Allows internal stakeholders time needed to align with the development organization
 Gains commitment from the Agile Release Trains (ARTs) on when Enabler Features will be delivered
 Customers, Suppliers, and partners understand how Solutions will evolve and participate in achieving the Vision
-Shows stakeholders what Features are forecast for the next three Program Increments (PIs)
+Shows stakeholders what Features are forecast for the next three Planning Intervals (PIs)
 
 
 What is an anti-pattern regarding an attribute of Agile architecture?
@@ -115,7 +115,7 @@ Focuses on systems and applications used directly by the end users
 Used together, emergent design and intentionality continuously build and extend the architectural runway
 To support continuous deployment, Agile architecture decouples deployment from release
 
-In addition to Solution Train Engineers and Solution Architects, who of the following should regularly attend Solution pre- and post-Program Increment (PI) Planning?
+In addition to Solution Train Engineers and Solution Architects, who of the following should regularly attend Solution pre- and post-Planning Interval (PI) Planning?
 Agile Teams
 Suppliers
 Epic Owners

@@ -2,4 +2,4 @@
 * feature team - same as component team but full stack
 * component vs feature teams
   * mix of 75-80 feature teams and 20-25% component
-* program board - where PI committed and uncommitted objectives live, risks and milestones
+* ART board - where PI committed and uncommitted objectives live, risks and milestones
