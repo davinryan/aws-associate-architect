@@ -27,15 +27,15 @@
 7. Apply cadence, synchronize with cross-domain planning
    * PI planning and other ceremonies
 8. Unlock the intrinsic motivation of knowledge workers
-   * Nuture autonomy
+   * Nurture autonomy
      * lead with objectives not tasks
-     * Decentralise decision making
+     * Decentralise decision-making
      * Allocate time for self-directed exploratory work
      * Organise around value (inverse conways law)
    * Cultivate mastery
      * Engage in challenging activities, foster learning from errors
      * Leverage unexpected rewards
-     * Built in quality
+     * Built-in quality
      * Optimise time for 'in the zone'
      * Special assignments - develop new or existing skills
      * Providing learning opportunities

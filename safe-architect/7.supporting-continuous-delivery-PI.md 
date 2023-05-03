@@ -1,7 +1,7 @@
 # Supporting continuous delivery during PI execution
 Basically all about Inspect and Adapt (I & A)
 
-## Role of architect (during PI and System demo)
+## Role of architect (during PI)
 * Refining architectural backlog
 * Shepherding architectural vision all through implementation (verify alignment with solution intent)
 * Refactor architecture (gather feedback, gauge value of decisions, observe emergent architecture)
@@ -11,11 +11,13 @@ Basically all about Inspect and Adapt (I & A)
 
 ## Role of architect (System demo)
 * Architects are team members who demo their work (architectural runway - spikes, enablers, NFRs etc...)
+  * Help prepare for system demo (remember they are technical product owners of NFRs and enablers)
 * They should attend other teams iteration/system demos
 * Verify alignment with solution intent (gather feedback, gauge value of decisions, observe emergent architecture)
 
 ## Role of architect (Solution demo - extends system)
-Boring.... very uninspired just same as system with capability words instead to support large solution
+Boring.... very uninspired just same as system with capability words instead to support large solution and focus on 
+DevOps Enablers to enable ARTs to work better together 
 * prepare capabilities
 * Demo enablers, capabilities, NFRs, benefits
 * Provide feedback on implemented solution
