@@ -17,7 +17,7 @@ An Agile Release Train (ART) is defining new Architectural Runway for a future P
 How should the Architect help to resolve this?
 Hire contractors to implement the Enablers
 Start involving the developers in Architectural Runway planning
-Encourage the developers to devote non-work hours to gain the knowledge
+Encourage the developers to devote non work hours to gain the knowledge
 Develop detailed design specifications that clarify the development tasks
 
 
